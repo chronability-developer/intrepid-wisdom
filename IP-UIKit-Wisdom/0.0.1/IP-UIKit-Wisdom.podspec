@@ -5,10 +5,10 @@ Pod::Spec.new do |s|
   s.description   = <<-DESC
                     A bag of internal helper libraries and categories around UIKit, written by the developers of Intrepid Pursuits.
                     DESC
-  s.homepage      = "https://github.com/IntrepidPursuits/uikit-wisdom"
+  s.homepage      = "https://github.com/chronability-developer/uikit-wisdom"
   s.license       = "MIT"
   s.authors       = { "Ying Quan Tan" => "ying@intrepid.io" }
-  s.source        = { :git => "https://github.com/IntrepidPursuits/uikit-wisdom.git", :tag => "v0.0.1" }
+  s.source        = { :git => "https://github.com/chronability-developer/uikit-wisdom.git", :tag => "v0.0.1" }
   s.source_files  = "src/**/*.{h,m}"
   s.exclude_files = "tests/**/*"
   s.platform      = "ios"
